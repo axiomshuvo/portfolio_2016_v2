@@ -33,6 +33,7 @@
                     <li><a href="#works" class="nav-link">Works</a></li>
                     <li><a href="#contact" class="nav-link">Contact</a></li>
                     <li><a href="download.php" class="btn-outline nav-cv">Resume <i class="fa fa-download"></i></a></li>
+                    <li><a href="cover-letter.php" class="btn-outline nav-cv">Cover Letter <i class="fa fa-file-lines"></i></a></li>
                 </ul>
                 <button class="hamburger" id="hamburger" aria-label="Toggle menu">
                     <span></span><span></span><span></span>
@@ -46,7 +47,7 @@
         <div class="hero-content">
             <p class="hero-greeting">Hi, my name is</p>
             <h1 class="hero-name">Pradipta Sarker<span class="cursor">_</span></h1>
-            <h2 class="hero-tagline">I build things for the web.</h2>
+            <h2 class="hero-tagline">Front End Developer</h2>
             <p class="hero-desc">I'm a web developer &amp; designer who loves creating clean, responsive, and user-friendly experiences. From blank canvas to pixel-perfect production — I bring ideas to life.</p>
             <div class="hero-actions">
                 <a href="#works" class="btn-primary">View My Work</a>
@@ -62,17 +63,16 @@
             <div class="about-grid">
                 <div class="about-text">
                     <p>I'm <strong>Pradipta Sarker</strong>, a passionate web developer and designer. I love creating new things and tackling challenging problems with thoughtful, intelligent solutions.</p>
-                    <p>My current weapons of choice are <span class="highlight">HTML5</span>, <span class="highlight">CSS3 / Sass</span>, <span class="highlight">JavaScript</span>, <span class="highlight">jQuery</span>, and <span class="highlight">MySQL</span>. Being both an engineer and a designer, I help clients bring their ideas into reality.</p>
-                    <p>Here are a few technologies I've been working with:</p>
+                    <p>My core tech stack is <span class="highlight">HTML5</span>, <span class="highlight">CSS3</span>, <span class="highlight">Bootstrap</span>, <span class="highlight">JavaScript / jQuery</span>, <span class="highlight">Sass</span>, <span class="highlight">Git</span>, and <span class="highlight">Photoshop</span>.</p>
+                    <p>Here are the tools and technologies from my resume stack:</p>
                     <ul class="tech-list">
-                        <li>HTML5 &amp; CSS3</li>
-                        <li>JavaScript (ES6+)</li>
-                        <li>Sass / Less</li>
-                        <li>Bootstrap / Tailwind</li>
-                        <li>jQuery</li>
-                        <li>Git &amp; GitHub</li>
-                        <li>MySQL</li>
-                        <li>PHP</li>
+                        <li>HTML5</li>
+                        <li>CSS3</li>
+                        <li>Bootstrap</li>
+                        <li>JavaScript / jQuery</li>
+                        <li>Sass</li>
+                        <li>Git</li>
+                        <li>Photoshop</li>
                     </ul>
                 </div>
                 <div class="about-img-wrap">
@@ -92,27 +92,10 @@
                         <div class="tl-item">
                             <div class="tl-dot"></div>
                             <div class="tl-content">
-                                <span class="tl-date">2011 — 2015</span>
-                                <h4>B.Eng in Computer Science &amp; Engineering</h4>
-                                <p class="tl-place">University</p>
-                                <p>Studied CS fundamentals, software engineering, algorithms, and web technologies.</p>
-                            </div>
-                        </div>
-                        <div class="tl-item">
-                            <div class="tl-dot"></div>
-                            <div class="tl-content">
-                                <span class="tl-date">2008 — 2010</span>
-                                <h4>H.S.C</h4>
-                                <p class="tl-place">College</p>
-                                <p>Completed higher secondary education with focus on science.</p>
-                            </div>
-                        </div>
-                        <div class="tl-item">
-                            <div class="tl-dot"></div>
-                            <div class="tl-content">
-                                <span class="tl-date">2002 — 2007</span>
-                                <h4>S.S.C — High School</h4>
-                                <p class="tl-place">School</p>
+                                <span class="tl-date">Jan 2011 — Apr 2015</span>
+                                <h4>B.Sc in C.S.E</h4>
+                                <p class="tl-place">Daffodil International University</p>
+                                <p>CGPA: 3.13</p>
                             </div>
                         </div>
                     </div>
@@ -123,19 +106,19 @@
                         <div class="tl-item">
                             <div class="tl-dot"></div>
                             <div class="tl-content">
-                                <span class="tl-date">Aug 2016 — Dec 2018</span>
-                                <h4>Front-End Developer</h4>
+                                <span class="tl-date">Aug 2016 — Present</span>
+                                <h4>Front-End Dev</h4>
                                 <p class="tl-place">Revo Interactive</p>
-                                <p>Worked with external clients, tackled diverse front-end challenges. Gained hands-on experience with Git, Sass, and advanced jQuery.</p>
+                                <p>Working with outside clients and solving new challenges that sharpen front-end skills. Strong hands-on experience with Git, Sass, and jQuery.</p>
                             </div>
                         </div>
                         <div class="tl-item">
                             <div class="tl-dot"></div>
                             <div class="tl-content">
                                 <span class="tl-date">Jun 2016 — Jul 2016</span>
-                                <h4>Junior / Intern Web Developer</h4>
-                                <p class="tl-place">BestSkillBd</p>
-                                <p>First professional role. Adapted to a professional work environment and built foundational industry knowledge.</p>
+                                <h4>Jr. Web Developer</h4>
+                                <p class="tl-place">BestSkillBD.com</p>
+                                <p>Started the professional journey here and adapted quickly to a real office environment, improving technical and teamwork skills.</p>
                             </div>
                         </div>
                     </div>
@@ -145,15 +128,17 @@
             <h3 class="skills-heading"><i class="fa fa-code"></i> Skills</h3>
             <div class="skills-grid">
                 <div class="skill-bar-wrap"><div class="skill-label"><span>HTML5</span><span>95%</span></div><div class="skill-track"><div class="skill-fill" data-width="95"></div></div></div>
-                <div class="skill-bar-wrap"><div class="skill-label"><span>CSS3 / Sass</span><span>90%</span></div><div class="skill-track"><div class="skill-fill" data-width="90"></div></div></div>
-                <div class="skill-bar-wrap"><div class="skill-label"><span>JavaScript / jQuery</span><span>80%</span></div><div class="skill-track"><div class="skill-fill" data-width="80"></div></div></div>
-                <div class="skill-bar-wrap"><div class="skill-label"><span>Bootstrap</span><span>92%</span></div><div class="skill-track"><div class="skill-fill" data-width="92"></div></div></div>
-                <div class="skill-bar-wrap"><div class="skill-label"><span>Git &amp; GitHub</span><span>85%</span></div><div class="skill-track"><div class="skill-fill" data-width="85"></div></div></div>
-                <div class="skill-bar-wrap"><div class="skill-label"><span>PHP / MySQL</span><span>70%</span></div><div class="skill-track"><div class="skill-fill" data-width="70"></div></div></div>
-                <div class="skill-bar-wrap"><div class="skill-label"><span>Photoshop</span><span>75%</span></div><div class="skill-track"><div class="skill-fill" data-width="75"></div></div></div>
-                <div class="skill-bar-wrap"><div class="skill-label"><span>Linux / Server Config</span><span>65%</span></div><div class="skill-track"><div class="skill-fill" data-width="65"></div></div></div>
+                <div class="skill-bar-wrap"><div class="skill-label"><span>CSS3</span><span>90%</span></div><div class="skill-track"><div class="skill-fill" data-width="90"></div></div></div>
+                <div class="skill-bar-wrap"><div class="skill-label"><span>Bootstrap</span><span>86%</span></div><div class="skill-track"><div class="skill-fill" data-width="86"></div></div></div>
+                <div class="skill-bar-wrap"><div class="skill-label"><span>JavaScript / jQuery</span><span>84%</span></div><div class="skill-track"><div class="skill-fill" data-width="84"></div></div></div>
+                <div class="skill-bar-wrap"><div class="skill-label"><span>Git</span><span>85%</span></div><div class="skill-track"><div class="skill-fill" data-width="85"></div></div></div>
+                <div class="skill-bar-wrap"><div class="skill-label"><span>Sass</span><span>88%</span></div><div class="skill-track"><div class="skill-fill" data-width="88"></div></div></div>
+                <div class="skill-bar-wrap"><div class="skill-label"><span>Photoshop</span><span>80%</span></div><div class="skill-track"><div class="skill-fill" data-width="80"></div></div></div>
             </div>
-            <div class="cv-cta"><a href="download.php" class="btn-primary"><i class="fa fa-download"></i> Download My vCard</a></div>
+            <div class="cv-cta">
+                <a href="download.php" class="btn-primary"><i class="fa fa-download"></i> Download Resume</a>
+                <a href="cover-letter.php" class="btn-ghost"><i class="fa fa-file-lines"></i> Download Cover Letter</a>
+            </div>
         </div>
     </section>
 
@@ -207,10 +192,8 @@
             <div class="contact-grid">
                 <div class="contact-info">
                     <div class="contact-links">
-                        <a href="https://twitter.com/Axiom_shuvo" target="_blank" rel="noopener noreferrer" class="contact-social"><i class="fa-brands fa-x-twitter"></i> Twitter</a>
                         <a href="https://www.linkedin.com/in/pradiptasarkershuvo/" target="_blank" rel="noopener noreferrer" class="contact-social"><i class="fa-brands fa-linkedin-in"></i> LinkedIn</a>
-                        <a href="https://github.com/Axiom-shuvo" target="_blank" rel="noopener noreferrer" class="contact-social"><i class="fa-brands fa-github"></i> GitHub</a>
-                        <a href="https://www.facebook.com/sarkar.shuvo" target="_blank" rel="noopener noreferrer" class="contact-social"><i class="fa-brands fa-facebook-f"></i> Facebook</a>
+                        <a href="https://github.com/axiomshuvo" target="_blank" rel="noopener noreferrer" class="contact-social"><i class="fa-brands fa-github"></i> GitHub</a>
                     </div>
                 </div>
                 <form class="contact-form" id="contact-form" action="" method="POST" novalidate>
@@ -229,10 +212,8 @@
     <footer class="footer">
         <div class="footer-inner">
             <div class="footer-social">
-                <a href="https://twitter.com/Axiom_shuvo" target="_blank" rel="noopener noreferrer" aria-label="Twitter"><i class="fa-brands fa-x-twitter"></i></a>
                 <a href="https://www.linkedin.com/in/pradiptasarkershuvo/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
-                <a href="https://github.com/Axiom-shuvo" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
-                <a href="https://www.facebook.com/sarkar.shuvo" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="https://github.com/axiomshuvo" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
             </div>
             <p class="footer-copy">Designed &amp; Built by <strong>Pradipta Sarker</strong> &copy; <?php echo date('Y'); ?></p>
         </div>

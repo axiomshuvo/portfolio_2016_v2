@@ -14,14 +14,14 @@ This is the source code for my personal portfolio site — rebuilt with a modern
 
 ## Sections
 
-| Section | Description |
-|---|---|
-| **Hero** | Introduction with animated text and CTA |
-| **About** | Bio, tech stack, and a quick summary of who I am |
-| **Resume** | Education timeline, work experience, and animated skill bars |
+| Section      | Description                                                              |
+| ------------ | ------------------------------------------------------------------------ |
+| **Hero**     | Introduction with animated text and CTA                                  |
+| **About**    | Bio, tech stack, and a quick summary of who I am                         |
+| **Resume**   | Education timeline, work experience, and animated skill bars             |
 | **Services** | What I offer: web design, development, responsive layouts, server config |
-| **Works** | Filterable project grid with lightbox preview and live site links |
-| **Contact** | Contact form and social media links |
+| **Works**    | Filterable project grid with lightbox preview and live site links        |
+| **Contact**  | Contact form and social media links                                      |
 
 ---
 
@@ -75,6 +75,7 @@ portfolio_2016_v2/
 This is a static PHP site. You need a PHP-capable local server to run it.
 
 **With PHP CLI:**
+
 ```bash
 php -S localhost:8000
 ```
@@ -86,29 +87,27 @@ Drop the folder into your server's `htdocs` / `www` directory and open in a brow
 
 ## Projects Showcased
 
-| Project | Category | Description |
-|---|---|---|
-| helio-s10 | Landing Page | Mobile product landing page |
-| Eboxtv | Web App | Frontend development |
-| helio-s25 | Landing Page | Mobile product landing page |
-| hireitpeople | Web Design | Theme customization |
-| Avakaya | E-Commerce | E-commerce frontend |
-| ESI Technologies | Landing Page | Single page frontend |
-| AK Khan Water Health | Landing Page | Single page portfolio |
-| Resort Sample | Landing Page | Sample landing page |
-| h1bLottery | Web Design | Single page application |
-| Newslife | Web Design | Newspaper sample theme |
-| shokalerkhobor24 | Web Design | Website frontend |
-| Desirecruiter | Web App | Website frontend |
+| Project              | Category     | Description                 |
+| -------------------- | ------------ | --------------------------- |
+| helio-s10            | Landing Page | Mobile product landing page |
+| Eboxtv               | Web App      | Frontend development        |
+| helio-s25            | Landing Page | Mobile product landing page |
+| hireitpeople         | Web Design   | Theme customization         |
+| Avakaya              | E-Commerce   | E-commerce frontend         |
+| ESI Technologies     | Landing Page | Single page frontend        |
+| AK Khan Water Health | Landing Page | Single page portfolio       |
+| Resort Sample        | Landing Page | Sample landing page         |
+| h1bLottery           | Web Design   | Single page application     |
+| Newslife             | Web Design   | Newspaper sample theme      |
+| shokalerkhobor24     | Web Design   | Website frontend            |
+| Desirecruiter        | Web App      | Website frontend            |
 
 ---
 
 ## Connect
 
-- 🐦 [Twitter](https://twitter.com/Axiom_shuvo)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pradiptasarkershuvo/)
-- 🐙 [GitHub](https://github.com/Axiom-shuvo)
-- 📘 [Facebook](https://www.facebook.com/sarkar.shuvo)
+- 🐙 [GitHub](https://github.com/axiomshuvo)
 
 ---
 
