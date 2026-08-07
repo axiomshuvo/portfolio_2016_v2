@@ -48,3 +48,4 @@ uploads/
 package-lock.json
 yarn.lock
 .gitignore
+.vscode/
